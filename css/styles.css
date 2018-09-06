@@ -1,0 +1,24 @@
+p.inset {border-style: inset;}
+
+a {
+color:#2E4053;
+font-family:playfair display;
+font-size:205%;
+}
+
+h1 {
+  color:white;
+  font-family:playfair display;
+  font-size:500%;
+}
+
+p {
+  color:white;
+  font-family:playfair display;
+  font-size:200%;
+}
+
+b {
+  font-size:350%;
+  color:white;
+}
